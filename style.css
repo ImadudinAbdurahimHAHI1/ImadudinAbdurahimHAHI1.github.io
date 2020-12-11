@@ -122,6 +122,14 @@ p{
 .list-group{
     width: 60%;
 }
+.table2{
+    overflow-x: auto;
+    display: block;
+    overflow: hidden; 
+    text-overflow: ellipsis; 
+    word-wrap: break-word;
+    table-layout:fixed;
+}
 /* Desktop Version*/
 @media (min-width: 992px) {
     .nav-link{
