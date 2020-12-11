@@ -119,6 +119,9 @@ h3{
 p{
     margin-left: 16px;
 }
+.list-group{
+    width: 60%;
+}
 /* Desktop Version*/
 @media (min-width: 992px) {
     .nav-link{
